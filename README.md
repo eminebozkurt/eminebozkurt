@@ -1,5 +1,8 @@
-###                                                    Hi, I'm Emine 👋
+###  Hi, I'm Emine 👋
 #### I am a Data Engineer. Now, I am improving my AWS side.
+
+https://camo.githubusercontent.com/a869c0a1185c22f53b437992d787121a326fe0926b2295c1c830575e6093c7be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6861746963652d79696c64697a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+
 <!--
 **eminebozkurt/eminebozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
