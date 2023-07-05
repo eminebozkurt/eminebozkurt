@@ -1,4 +1,4 @@
-### Hi there 👋
+###                                                    Hi, I'm Emine 👋
 #### I am a Data Engineer. Now, I am improving my AWS side.
 <!--
 **eminebozkurt/eminebozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
