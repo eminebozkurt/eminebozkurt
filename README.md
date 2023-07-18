@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eminebozkurtbe@gmail.com**
 
-- 😄 Pronouns [Like rapper 'Eminem' but without second m.](Like rapper 'Eminem' but without second m.)
+- 😄 Pronouns: Like rapper 'Eminem' but without second m.](Like rapper 'Eminem' but without second m.)
 
 - ⚡ Fun fact **Travelling 🎒💖**
 
