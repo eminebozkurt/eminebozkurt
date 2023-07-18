@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/eminebozkurtt/overlay/background-image/)
+[![](https://www.linkedin.com/in/eminebozkurtt/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Emine</h1>
 <h3 align="center">A passionate Data Engineer.</h3>
